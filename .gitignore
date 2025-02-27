@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+venv/
+archive/
+images/
+SECRET.json
+*.pt
